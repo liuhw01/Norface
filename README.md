@@ -1,5 +1,5 @@
 # Norface
-[Norface: Improving Facial Expression Analysis by Identity Normalization](https://arxiv.org/pdf/2407.15617), ECCV 2024. [Link.] (https://norface-fea.github.io/)
+Hanwei Liu, Rudong An,  Zhimeng Zhang, Bowen Ma,  Wei Zhang, Yan Song, Yujing Hu, Wei Chen, and Yu Ding. [Norface: Improving Facial Expression Analysis by Identity Normalization](https://arxiv.org/pdf/2407.15617), ECCV 2024. 
 
 
 
