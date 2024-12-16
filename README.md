@@ -11,15 +11,15 @@ Facial Expression Analysis remains a challenging task due to unexpected task-irr
 ---
 # Normalized dataset Links
 
-For the normalized data of all facial expression datasets (AffectNet, RAF-DB, BP4D, BP4D+, DISFA), please visit ([https://norface-fea.github.io]).
+For the normalized data of all facial expression datasets (AffectNet, RAF-DB, BP4D, BP4D+, DISFA), please visit ([Link](https://norface-fea.github.io)).
 
 We are actively reaching out to the authors of the BP4D, BP4D+, and DISFA datasets to seek legal permission. Thank you.
 
 For the normalized data of individual facial expression dataset:
 
-1. AffectNet. Baidu Cloud ([https://pan.baidu.com/s/1IoqRTy_GD6h_XYxOL9VBng?pwd=norf]).
+1. AffectNet. Baidu Cloud ([norf](https://pan.baidu.com/s/1IoqRTy_GD6h_XYxOL9VBng?pwd=norf)).
 
-2. RAF-DB. Baidu Cloud ([https://pan.baidu.com/s/1ni2JmNZ97ldaso1nhkIVCA?pwd=norf]).
+2. RAF-DB. Baidu Cloud ([norf](https://pan.baidu.com/s/1ni2JmNZ97ldaso1nhkIVCA?pwd=norf)).
 
 3. BP4D.
 
