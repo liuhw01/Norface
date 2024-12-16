@@ -39,4 +39,16 @@ If you use our normalized dataset, please cite both our work and the original da
 
 5. DISFA: Mavadati, S.M., Mahoor, M.H., Bartlett, K., Trinh, P., Cohn, J.F.: Disfa: A spontaneous facial action intensity database. IEEE Transactions on Affective Computing 4(2), 151–160 (2013).
 
+---
 
+## If you use this work, please cite our paper
+
+```
+@ARTICLE{9750079,
+  author={Hanwei Liu, Rudong An,  Zhimeng Zhang, Bowen Ma,  Wei Zhang, Yan Song, Yujing Hu, Wei Chen, and Yu Ding},
+  journal={ECCV 2024}, 
+  title={Norface: Improving Facial Expression Analysis by Identity Normalization}, 
+  year={2024},
+  publisher={Springer}
+  doi={10.1007/978-3-031-73001-6_17}}
+```
